@@ -8,6 +8,5 @@
         <foreach collection = "dishIds" item = "dishId" separator="," open="(" close=")">
             #{dishId}
         </foreach>
-
     </select>
 </mapper>
