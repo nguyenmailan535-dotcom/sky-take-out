@@ -11,3 +11,8 @@ sky:
     access-key-id: ${ALIYUN_ACCESS_KEY_ID}
     access-key-secret: ${ALIYUN_ACCESS_KEY_SECRET}
     bucket-name: sky-take-out-cxm
+  redis:
+    host: localhost
+    port: 6379
+    password: cxm030707
+    database: 10
