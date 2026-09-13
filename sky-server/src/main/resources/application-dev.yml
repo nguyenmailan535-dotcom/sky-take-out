@@ -19,3 +19,7 @@ sky:
   wechat:
     appid: ${WECHAT_APPID}
     secret: ${WECHAT_SECRET}
+  shop:
+    address: 北京市海淀区上地十街10号
+  baidu:
+    ak: ${BAIDU_AK}
